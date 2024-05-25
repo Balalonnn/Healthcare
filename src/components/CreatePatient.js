@@ -175,7 +175,7 @@ const CreatePatient = ({ onPatientAdded }) => {
       </form>
       <Link to="/patients">
         <Button type="submit" variant="contained" color="primary">
-          Create Patient
+          Create Patien
         </Button>
       </Link>
     </Box>
